@@ -2,7 +2,7 @@
 
 Simple arcade game where you need to color as many circles on the gamefield  as you can. The winner is the one who painted over the most. 
 
-![alt text](https://github.com/ProValdi/Render3D/blob/master/gameview.png)
+![alt text](https://github.com/ProValdi/Swarm/blob/master/gameview.png)
 
 # How to run ?
 
@@ -17,4 +17,4 @@ mvn exec:java -Dexec.mainClass="app.App"
 
 A window will pop up, where only two of the four buttons will be working: play and exit the game
 
-![alt text](https://github.com/ProValdi/Render3D/blob/master/preview.png)
+![alt text](https://github.com/ProValdi/Swarm/blob/master/preview.png)
