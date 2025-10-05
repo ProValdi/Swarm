@@ -75,6 +75,8 @@ public class VectorXY {
         return new VectorXY(vector.x*n, vector.y*n);
     }
 
+    // wow!
+
     public VectorXY divVector (double n) {
         if (n != 0) {
             return new VectorXY(this.x/n, this.y/n);
