@@ -85,6 +85,7 @@ public class VectorXY {
         return null;
     }
 
+    // моя крутая фича 3
     // some code 2
     // some code
 
