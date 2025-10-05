@@ -85,6 +85,8 @@ public class VectorXY {
         return null;
     }
 
+    // some code
+
     public VectorXY divVector (final VectorXY vector, final double n) {
         return this.divVector(n);
     }
