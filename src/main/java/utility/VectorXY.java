@@ -86,6 +86,7 @@ public class VectorXY {
     }
 
     // моя крутая фича 3
+    // some code 2
     // some code
 
     public VectorXY divVector (final VectorXY vector, final double n) {
