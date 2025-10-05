@@ -85,6 +85,7 @@ public class VectorXY {
         return null;
     }
 
+    // some code 2
     // some code
 
     public VectorXY divVector (final VectorXY vector, final double n) {
